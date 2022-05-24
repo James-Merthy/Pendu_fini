@@ -252,7 +252,5 @@ public class Game {
         game();
 
 
-        // afficherTab(mot_cacher(mot_au_hazard()));
-
     }
 }
